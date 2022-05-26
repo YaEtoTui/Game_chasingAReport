@@ -1,0 +1,11 @@
+D:\Игра на WinForms\GameInWinForms\GameInWinForms\bin\Debug\GameInWinForms.exe.config
+D:\Игра на WinForms\GameInWinForms\GameInWinForms\bin\Debug\GameInWinForms.exe
+D:\Игра на WinForms\GameInWinForms\GameInWinForms\bin\Debug\GameInWinForms.pdb
+D:\Игра на WinForms\GameInWinForms\GameInWinForms\obj\Debug\GameInWinForms.csproj.AssemblyReference.cache
+D:\Игра на WinForms\GameInWinForms\GameInWinForms\obj\Debug\GameInWinForms.csproj.SuggestedBindingRedirects.cache
+D:\Игра на WinForms\GameInWinForms\GameInWinForms\obj\Debug\GameInWinForms.Properties.Resources.resources
+D:\Игра на WinForms\GameInWinForms\GameInWinForms\obj\Debug\GameInWinForms.csproj.GenerateResource.cache
+D:\Игра на WinForms\GameInWinForms\GameInWinForms\obj\Debug\GameInWinForms.csproj.CoreCompileInputs.cache
+D:\Игра на WinForms\GameInWinForms\GameInWinForms\obj\Debug\GameInWinForms.exe
+D:\Игра на WinForms\GameInWinForms\GameInWinForms\obj\Debug\GameInWinForms.pdb
+D:\Игра на WinForms\GameInWinForms\GameInWinForms\obj\Debug\GameInWinForms.Form1.resources
